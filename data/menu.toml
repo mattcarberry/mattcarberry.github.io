@@ -1,0 +1,14 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://github.com/mattcarberry"
+
+  [[entries.entries]]
+  title = "linkedin"
+  url = "https://www.linkedin.com/in/mattcarberry/"
+
+  [[entries.entries]]
+  title = "cv"
+  url = "cv_mattcarberry.pdf"

@@ -1,0 +1,4 @@
+baseURL = 'https://mattcarberry.de/'
+languageCode = 'en-us'
+title = 'Matt Carberry'
+theme= 'nostyleplease'
